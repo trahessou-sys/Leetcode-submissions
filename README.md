@@ -23,4 +23,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0002-add-two-numbers/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 <!---LeetCode Topics End-->
