@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0485-max-consecutive-ones) | Easy |
 | [0496-next-greater-element-i](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0496-next-greater-element-i) | Easy |
 | [0605-can-place-flowers](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0605-can-place-flowers) | Easy |
+| [0621-task-scheduler](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0621-task-scheduler/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0636-exclusive-time-of-functions) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0643-maximum-average-subarray-i) | Easy |
 | [0645-set-mismatch](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0645-set-mismatch) | Easy |
@@ -94,19 +95,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3693-climbing-stairs-ii](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/3693-climbing-stairs-ii) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/3727-maximum-alternating-sum-of-squares) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/3736-minimum-moves-to-equal-array-elements-iii) | Easy |
-
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0039-combination-sum) | Medium |
 | [0040-combination-sum-ii](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0040-combination-sum-ii) | Medium |
 | [0257-binary-tree-paths](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0257-binary-tree-paths) | Easy |
-
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree) | Medium |
-
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,7 +124,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0875-koko-eating-bananas) | Medium |
 | [0981-time-based-key-value-store](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0981-time-based-key-value-store) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1004-max-consecutive-ones-iii) | Medium |
-
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,7 +134,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0700-search-in-a-binary-search-tree) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0703-kth-largest-element-in-a-stream) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0897-increasing-order-search-tree) | Easy |
-
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,7 +165,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0897-increasing-order-search-tree](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0897-increasing-order-search-tree) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1448-count-good-nodes-in-binary-tree) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/2265-count-nodes-equal-to-average-of-subtree) | Medium |
-
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,23 +175,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0287-find-the-duplicate-number) | Medium |
 | [0645-set-mismatch](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0645-set-mismatch) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero) | Easy |
-
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0169-majority-element) | Easy |
-
 ## Boyer–Moore String-Search Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) | Easy |
-
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0020-valid-parentheses) | Easy |
 | [0856-score-of-parentheses](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0856-score-of-parentheses) | Medium |
-
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,41 +202,35 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0404-sum-of-left-leaves) | Easy |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0429-n-ary-tree-level-order-traversal) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1448-count-good-nodes-in-binary-tree) | Medium |
-
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0075-sort-colors) | Medium |
-
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0347-top-k-frequent-elements) | Medium |
-
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0169-majority-element) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0347-top-k-frequent-elements) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0387-first-unique-character-in-a-string) | Easy |
+| [0621-task-scheduler](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0621-task-scheduler/) | Medium |
 | [1603-design-parking-system](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1603-design-parking-system) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1657-determine-if-two-strings-are-close) | Medium |
-
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number) | Easy |
-
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0543-diameter-of-binary-tree) | Easy |
-
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0703-kth-largest-element-in-a-stream) | Easy |
-
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,7 +259,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0897-increasing-order-search-tree](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0897-increasing-order-search-tree) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1448-count-good-nodes-in-binary-tree) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/2265-count-nodes-equal-to-average-of-subtree) | Medium |
-
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,7 +272,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0703-kth-largest-element-in-a-stream) | Easy |
 | [0981-time-based-key-value-store](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0981-time-based-key-value-store) | Medium |
 | [1603-design-parking-system](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1603-design-parking-system) | Easy |
-
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,12 +282,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0215-kth-largest-element-in-an-array) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0347-top-k-frequent-elements) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0973-k-closest-points-to-origin) | Medium |
-
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0146-lru-cache) | Medium |
-
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,33 +300,27 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/3665-twisted-mirror-path-count) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/3693-climbing-stairs-ii) | Medium |
-
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/3483-unique-3-digit-even-numbers) | Easy |
-
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1071-greatest-common-divisor-of-strings) | Easy |
-
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0141-linked-list-cycle) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0287-find-the-duplicate-number) | Medium |
-
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0973-k-closest-points-to-origin) | Medium |
-
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1071-greatest-common-divisor-of-strings) | Easy |
-
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -353,13 +328,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0045-jump-game-ii) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0334-increasing-triplet-subsequence) | Medium |
 | [0605-can-place-flowers](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0605-can-place-flowers) | Easy |
+| [0621-task-scheduler](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0621-task-scheduler/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/3727-maximum-alternating-sum-of-squares) | Medium |
-
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0572-subtree-of-another-tree) | Easy |
-
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -389,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array) | Easy |
 | [0496-next-greater-element-i](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0496-next-greater-element-i) | Easy |
 | [0567-permutation-in-string](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0567-permutation-in-string) | Medium |
+| [0621-task-scheduler](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0621-task-scheduler/) | Medium |
 | [0645-set-mismatch](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0645-set-mismatch) | Easy |
 | [0981-time-based-key-value-store](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0981-time-based-key-value-store) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1207-unique-number-of-occurrences) | Easy |
@@ -398,32 +373,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-find-the-difference-of-two-arrays](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/2215-find-the-difference-of-two-arrays) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/2352-equal-row-and-column-pairs) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/3483-unique-3-digit-even-numbers) | Easy |
-
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0215-kth-largest-element-in-an-array) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0347-top-k-frequent-elements) | Medium |
+| [0621-task-scheduler](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0703-kth-largest-element-in-a-stream) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0973-k-closest-points-to-origin) | Medium |
 | [1046-last-stone-weight](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1046-last-stone-weight) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/2558-take-gifts-from-the-richest-pile) | Easy |
-
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0278-first-bad-version) | Easy |
-
 ## K-D Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0973-k-closest-points-to-origin) | Medium |
-
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) | Easy |
-
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -437,22 +408,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0146-lru-cache) | Medium |
 | [0206-reverse-linked-list](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0206-reverse-linked-list) | Easy |
 | [0234-palindrome-linked-list](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0234-palindrome-linked-list) | Easy |
-
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0334-increasing-triplet-subsequence) | Medium |
-
 ## Lowest Common Ancestor
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree) | Medium |
-
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0005-longest-palindromic-substring) | Medium |
-
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -478,7 +445,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2485-find-the-pivot-integer](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/2485-find-the-pivot-integer) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/3736-minimum-moves-to-equal-array-elements-iii) | Easy |
-
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -486,30 +452,25 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0074-search-a-2d-matrix) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/2352-equal-row-and-column-pairs) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/3665-twisted-mirror-path-count) | Medium |
-
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0070-climbing-stairs) | Easy |
 | [0509-fibonacci-number](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0509-fibonacci-number) | Easy |
-
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0496-next-greater-element-i) | Easy |
 | [0739-daily-temperatures](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0739-daily-temperatures) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop) | Easy |
-
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0069-sqrtx) | Easy |
-
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0258-add-digits) | Easy |
-
 ## Other
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -517,12 +478,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [4078-three-fibonacci-sum](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/4078-three-fibonacci-sum) | Easy |
 | [4092-binary-digit-score](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/4092-binary-digit-score) | Easy |
 | [4093-maximize-sum-after-at-most-k-digit-rearrangements](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/4093-maximize-sum-after-at-most-k-digit-rearrangements) | Medium |
-
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0287-find-the-duplicate-number) | Medium |
-
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -533,26 +492,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1480-running-sum-of-1d-array) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1732-find-the-highest-altitude) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/2485-find-the-pivot-integer) | Easy |
-
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0225-implement-stack-using-queues) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0232-implement-queue-using-stacks) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0387-first-unique-character-in-a-string) | Easy |
-
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0215-kth-largest-element-in-an-array) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0347-top-k-frequent-elements) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0973-k-closest-points-to-origin) | Medium |
-
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0075-sort-colors) | Medium |
-
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -564,7 +519,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0234-palindrome-linked-list) | Easy |
 | [0509-fibonacci-number](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0509-fibonacci-number) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/3483-unique-3-digit-even-numbers) | Easy |
-
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -581,7 +535,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2352-equal-row-and-column-pairs](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/2352-equal-row-and-column-pairs) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/2390-removing-stars-from-a-string) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/2558-take-gifts-from-the-richest-pile) | Easy |
-
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -594,7 +547,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1004-max-consecutive-ones-iii) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element) | Medium |
-
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -613,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0349-intersection-of-two-arrays) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0350-intersection-of-two-arrays-ii) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0462-minimum-moves-to-equal-array-elements-ii) | Medium |
+| [0621-task-scheduler](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0621-task-scheduler/) | Medium |
 | [0645-set-mismatch](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0645-set-mismatch) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0973-k-closest-points-to-origin) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0977-squares-of-a-sorted-array) | Easy |
@@ -621,7 +574,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1657-determine-if-two-strings-are-close](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1657-determine-if-two-strings-are-close) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1679-max-number-of-k-sum-pairs) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/3727-maximum-alternating-sum-of-squares) | Medium |
-
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -648,7 +600,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1441-build-an-array-with-stack-operations](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1441-build-an-array-with-stack-operations) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/2390-removing-stars-from-a-string) | Medium |
-
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -683,13 +634,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1768-merge-strings-alternately](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1768-merge-strings-alternately) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/2243-calculate-digit-sum-of-a-string) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/2390-removing-stars-from-a-string) | Medium |
-
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0572-subtree-of-another-tree) | Easy |
-
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -724,14 +673,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0897-increasing-order-search-tree](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0897-increasing-order-search-tree) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1448-count-good-nodes-in-binary-tree) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/2265-count-nodes-equal-to-average-of-subtree) | Medium |
-
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0014-longest-common-prefix) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0208-implement-trie-prefix-tree) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0211-design-add-and-search-words-data-structure) | Medium |
-
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -766,15 +713,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0977-squares-of-a-sorted-array) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1679-max-number-of-k-sum-pairs) | Medium |
 | [1768-merge-strings-alternately](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1768-merge-strings-alternately) | Easy |
-
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0128-longest-consecutive-sequence) | Medium |
-
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) | Easy |
-
 <!---LeetCode Topics End-->
