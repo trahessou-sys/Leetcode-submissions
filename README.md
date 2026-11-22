@@ -635,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1657-determine-if-two-strings-are-close) | Medium |
 | [1768-merge-strings-alternately](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1768-merge-strings-alternately) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/2243-calculate-digit-sum-of-a-string) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/2390-removing-stars-from-a-string) | Medium |
 ## String Matching
