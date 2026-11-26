@@ -448,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/2485-find-the-pivot-integer) | Easy |
+| [3360-stone-removal-game](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/3360-stone-removal-game/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/3736-minimum-moves-to-equal-array-elements-iii) | Easy |
 ## Matrix
@@ -540,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2352-equal-row-and-column-pairs](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/2352-equal-row-and-column-pairs) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/2390-removing-stars-from-a-string) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/2558-take-gifts-from-the-richest-pile) | Easy |
+| [3360-stone-removal-game](https://github.com/trahessou-sys/Leetcode-submissions/tree/main/3360-stone-removal-game/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
